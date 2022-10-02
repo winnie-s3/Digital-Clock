@@ -7,10 +7,10 @@
 ### Temas de acordo com cada horário
   <div align="center">
     <img src="https://user-images.githubusercontent.com/74850021/193434333-6cc1b811-23be-4713-88a5-958cd5c8c70b.png" width="200px">
-    <p>Morning</p>
+
     <img src="https://user-images.githubusercontent.com/74850021/193434333-6cc1b811-23be-4713-88a5-958cd5c8c70b.png" width="200px">
-    <p>Morning</p>
+
     <img src="https://user-images.githubusercontent.com/74850021/193434333-6cc1b811-23be-4713-88a5-958cd5c8c70b.png" width="200px">
-    <p>Morning</p>
+
   </div>
 </div>
