@@ -1,2 +1,2 @@
-# Digital-Clock
-Relógio digital | HTML/CSS/JS
+# Digital-Clock | HTML/CSS/JS
+
