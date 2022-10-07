@@ -23,3 +23,4 @@
 ## Referências:
 - Fontes: <a href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap">Google Fonts</a>
 - Javascript (tutorial): <a href="https://www.youtube.com/watch?v=GK0ok3ZCXwM">Larissa Kich</a>
+- Ícones: <a href="https://icons8.com.br">Icons8</a>
