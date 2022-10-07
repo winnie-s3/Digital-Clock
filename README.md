@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74850021/193432574-6b15252a-e520-4656-82b5-9a8df01db6b6.png" width="550px">
+  <h4 align="left">Esse website está hospedado <a href="https://winnie-s3.github.io/Digital-Clock/">aqui!</a></h4>
 </div>
 
 ### Temas de acordo com cada horário
@@ -18,3 +19,7 @@
 - Inglês
 - Espanhol
 - Francês
+
+## Referências:
+- Fontes: <a href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap">Google Fonts</a>
+- Javascript (tutorial): <a href="https://www.youtube.com/watch?v=GK0ok3ZCXwM">Larissa Kich</a>
